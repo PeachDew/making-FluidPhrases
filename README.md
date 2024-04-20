@@ -1,7 +1,8 @@
 # FluidPhrases: Conversational AI with Distinct Personas
 
 FluidPhrases is a system that generates natural conversations between two Language Learning Models (LLMs) with distinct personas. This repository contains exploratory notebooks and data sources for training the conversational AI system. 
-Main App Streamlit Repository located here: [https://github.com/PeachDew/FluidPhrases](https://github.com/PeachDew/FluidPhrases)
+
+Main Streamlit Repository located here: [https://github.com/PeachDew/FluidPhrases](https://github.com/PeachDew/FluidPhrases)
 
 ## Notebooks
 
