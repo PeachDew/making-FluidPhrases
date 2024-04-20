@@ -31,7 +31,7 @@ The data used for training the LLM personalities is located in the `data` folder
 - [TED Talks](https://www.kaggle.com/datasets/rounakbanik/ted-talks)
 
 ### `data/politician`
-
+Unfortunately zipped file is too large to upload to github, but source can be found here:
 - [UN General Debates](https://www.kaggle.com/datasets/unitednations/un-general-debates)
 
 ### `data/comedian`
@@ -39,7 +39,7 @@ The data used for training the LLM personalities is located in the `data` folder
 - [Stand-up Comedy Transcripts](https://scrapsfromtheloft.com/stand-up-comedy-scripts/)
 - [Scraping Code](https://github.com/SethGo/ComedyNLP/blob/master/get_transcripts.ipynb)
 
-### `data/L=lawyer`
+### `data/lawyer`
 
 - [Transcripts of Supreme Court Cases](https://github.com/EricWiener/supreme-court-cases)
 
