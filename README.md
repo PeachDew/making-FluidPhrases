@@ -1,6 +1,6 @@
 # FluidPhrases: Conversational AI with Distinct Personas
 
-FluidPhrases is a system that generates natural conversations between two Language Learning Models (LLMs) with distinct personas. This repository contains notebooks and data sources for training and deploying the conversational AI system.
+FluidPhrases is a system that generates natural conversations between two Language Learning Models (LLMs) with distinct personas. This repository contains exploratory notebooks and data sources for training the conversational AI system.
 
 ## Notebooks
 
